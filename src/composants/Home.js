@@ -20,6 +20,12 @@ const Home = () => {
             body: "la ville de likasi",
             author: "ilunga",
             date: "02/01/2022"
+        },
+        {   id: 4,
+            title: "Bienvenu  à Shituru",
+            body: "la ville de shituru",
+            author: "Banza",
+            date: "02/01/2022"
         }
     ]);
  
