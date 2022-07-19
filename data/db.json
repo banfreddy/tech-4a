@@ -1,0 +1,26 @@
+       {
+           "blogs":[
+                {
+                    "id": 1,
+                    "title": "Bienvenu  à nom blog",
+                    "body": "la ville de likasi",
+                    "author": "Banza",
+                    "date": "02/01/2021"
+                },
+                {
+                    "id": 2,
+                    "title": "Bienvenu  à Likasi",
+                    "body": "la ville de likasi",
+                    "author": "Ilunga",
+                    "date": "02/01/2020"
+                },
+                {
+                    "id": 3,
+                    "title": "Bienvenu  à Kikula",
+                    "body": "la ville de likasi",
+                    "author": "Banza",
+                    "date": "02/01/2021"
+                }
+        
+        ]
+    }
